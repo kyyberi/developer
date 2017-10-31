@@ -29,7 +29,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "sunrise"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -61,7 +61,7 @@ naver-site-verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :apinf_io
 facebook:
   username               :
   app_id                 :
